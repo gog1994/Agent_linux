@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+	<Result Action="assign">
+	<TaskID>13219</TaskID>
+	<TaskType>20</TaskType>
+	<SourceFile id="" pw="">Y:/Storage/highres/2020/11/20/103817/103817.mp4</SourceFile>
+	<TargetPath id="" pw="">Y:/Storage/lowres/2020/11/20/103817/103817/Proxy/proxy_103817.mp4</TargetPath>
+	<Info>
+		<Parameter>"h.264" "AAC" "480" "270" "700" "128"</Parameter>
+	</Info>
+	</Result>
+</Response>
+

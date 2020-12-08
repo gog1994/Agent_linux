@@ -1,0 +1,142 @@
+[2020-11-19 20:38:40,659 - INFO] | 123
+[2020-11-19 20:39:12,872 - INFO] | 123
+[2020-11-19 20:45:07,779 - INFO] | 123
+[2020-11-19 20:45:16,384 - INFO] | 123
+[2020-11-19 20:45:51,428 - INFO] | 123
+[2020-11-19 20:46:19,334 - INFO] | 123
+[2020-11-19 20:47:09,973 - INFO] | 123
+[2020-11-19 20:47:34,139 - INFO] | 123
+[2020-11-19 20:47:54,713 - INFO] | 123
+[2020-11-19 21:00:33,881 - INFO] | 123
+[2020-11-20 14:49:21,297 - INFO] | 123
+[2020-11-20 14:57:27,219 - INFO] | 123
+[2020-11-20 14:58:10,256 - INFO] | 123
+[2020-11-20 14:58:23,138 - INFO] | 123
+[2020-11-20 15:08:34,495 - INFO] | 123
+[2020-11-20 15:09:08,035 - INFO] | 123
+[2020-11-20 15:09:39,323 - INFO] | 123
+[2020-11-20 15:10:06,474 - INFO] | 123
+[2020-11-20 15:11:18,152 - INFO] | 123
+[2020-11-20 15:25:30,990 - INFO] | 123
+[2020-11-20 15:26:59,955 - INFO] | 123
+[2020-11-20 15:30:48,781 - INFO] | 123
+[2020-11-20 15:31:09,262 - INFO] | 123
+[2020-11-20 16:02:28,513 - INFO] | 123
+[2020-11-20 16:02:56,753 - INFO] | 123
+[2020-11-20 16:03:23,868 - INFO] | 123
+[2020-11-20 16:05:40,309 - INFO] | 123
+[2020-11-20 16:07:26,725 - INFO] | 123
+[2020-11-20 16:08:22,911 - INFO] | 123
+[2020-11-20 16:32:31,329 - INFO] | 123
+[2020-11-20 16:34:56,098 - INFO] | 123
+[2020-11-20 16:35:15,717 - INFO] | 123
+[2020-11-20 16:35:16,605 - INFO] | 200
+[2020-11-20 16:35:21,956 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result Action="assign"><TaskID>13219</TaskID><TaskType>20</TaskType><SourceFile id="" pw="">Y:/Storage/highres/2020/11/20/103817/103817.mp4</SourceFile><TargetPath id="" pw="">Y:/Storage/lowres/2020/11/20/103817/103817/Proxy/proxy_103817.mp4</TargetPath><Info><Parameter>"h.264" "AAC" "480" "270" "700" "128"</Parameter></Info></Result></Response>
+
+[2020-11-20 16:35:27,700 - INFO] | 200
+[2020-11-20 16:35:27,701 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:37:16,363 - INFO] | 123
+[2020-11-20 16:37:17,353 - INFO] | 200
+[2020-11-20 16:37:17,354 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:37:23,307 - INFO] | 200
+[2020-11-20 16:37:23,307 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:37:28,959 - INFO] | 200
+[2020-11-20 16:37:28,959 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:37:34,561 - INFO] | 200
+[2020-11-20 16:37:34,562 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:37:40,140 - INFO] | 200
+[2020-11-20 16:37:40,141 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:37:45,960 - INFO] | 200
+[2020-11-20 16:37:45,961 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:37:52,845 - INFO] | 200
+[2020-11-20 16:37:52,846 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:37:58,479 - INFO] | 200
+[2020-11-20 16:37:58,479 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:38:04,213 - INFO] | 200
+[2020-11-20 16:38:04,214 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:38:10,029 - INFO] | 200
+[2020-11-20 16:38:10,030 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:38:15,661 - INFO] | 200
+[2020-11-20 16:38:15,661 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:38:21,973 - INFO] | 200
+[2020-11-20 16:38:21,974 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:38:28,568 - INFO] | 200
+[2020-11-20 16:38:28,568 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:38:34,465 - INFO] | 200
+[2020-11-20 16:38:34,466 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:38:40,438 - INFO] | 200
+[2020-11-20 16:38:40,439 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:38:46,099 - INFO] | 200
+[2020-11-20 16:38:46,099 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:38:51,872 - INFO] | 200
+[2020-11-20 16:38:51,873 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:38:57,492 - INFO] | 200
+[2020-11-20 16:38:57,492 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:39:03,510 - INFO] | 200
+[2020-11-20 16:39:03,510 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:39:09,311 - INFO] | 200
+[2020-11-20 16:39:09,312 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:39:15,087 - INFO] | 200
+[2020-11-20 16:39:15,087 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:39:21,119 - INFO] | 200
+[2020-11-20 16:39:21,119 - INFO] | <?xml version="1.0" encoding="UTF-8"?>
+<Response><Result/></Response>
+
+[2020-11-20 16:46:43,936 - INFO] | 123
+[2020-11-20 16:47:53,539 - INFO] | 123
+[2020-11-20 16:48:38,845 - INFO] | 123
+[2020-11-20 16:49:08,124 - INFO] | 123
+[2020-11-20 16:50:28,260 - INFO] | 123
+[2020-11-20 17:34:49,586 - INFO] | 123
+[2020-11-20 17:36:40,410 - INFO] | 123
+[2020-11-20 17:37:35,932 - INFO] | 123
+[2020-11-20 17:38:24,593 - INFO] | 123
+[2020-11-20 17:39:42,438 - INFO] | 123
+[2020-11-20 17:41:19,615 - INFO] | 123
+[2020-11-20 17:42:17,959 - INFO] | 123
+[2020-11-20 18:12:05,131 - INFO] | 123
